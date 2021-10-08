@@ -1,0 +1,12 @@
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\obj\Debug\netstandard2.1\AparClick.App.Persistencia.csprojAssemblyReference.cache
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\obj\Debug\netstandard2.1\AparClick.App.Persistencia.AssemblyInfoInputs.cache
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\obj\Debug\netstandard2.1\AparClick.App.Persistencia.AssemblyInfo.cs
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\obj\Debug\netstandard2.1\AparClick.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\bin\Debug\netstandard2.1\AparClick.App.Persistencia.deps.json
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\bin\Debug\netstandard2.1\AparClick.App.Persistencia.dll
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\bin\Debug\netstandard2.1\AparClick.App.Persistencia.pdb
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\bin\Debug\netstandard2.1\AparClick.App.Dominio.dll
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\bin\Debug\netstandard2.1\AparClick.App.Dominio.pdb
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\obj\Debug\netstandard2.1\AparClick.App.Persistencia.csproj.CopyComplete
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\obj\Debug\netstandard2.1\AparClick.App.Persistencia.dll
+C:\Parqueadero\AparClick.App\AparClick.App.Persistencia\obj\Debug\netstandard2.1\AparClick.App.Persistencia.pdb

@@ -1,0 +1,9 @@
+C:\Parqueadero\AparClick.App\AparClick.App.Dominio\bin\Debug\netstandard2.0\AparClick.App.Dominio.deps.json
+C:\Parqueadero\AparClick.App\AparClick.App.Dominio\bin\Debug\netstandard2.0\AparClick.App.Dominio.dll
+C:\Parqueadero\AparClick.App\AparClick.App.Dominio\bin\Debug\netstandard2.0\AparClick.App.Dominio.pdb
+C:\Parqueadero\AparClick.App\AparClick.App.Dominio\obj\Debug\netstandard2.0\AparClick.App.Dominio.csprojAssemblyReference.cache
+C:\Parqueadero\AparClick.App\AparClick.App.Dominio\obj\Debug\netstandard2.0\AparClick.App.Dominio.AssemblyInfoInputs.cache
+C:\Parqueadero\AparClick.App\AparClick.App.Dominio\obj\Debug\netstandard2.0\AparClick.App.Dominio.AssemblyInfo.cs
+C:\Parqueadero\AparClick.App\AparClick.App.Dominio\obj\Debug\netstandard2.0\AparClick.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Parqueadero\AparClick.App\AparClick.App.Dominio\obj\Debug\netstandard2.0\AparClick.App.Dominio.dll
+C:\Parqueadero\AparClick.App\AparClick.App.Dominio\obj\Debug\netstandard2.0\AparClick.App.Dominio.pdb
